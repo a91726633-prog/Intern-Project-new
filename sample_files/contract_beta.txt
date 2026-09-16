@@ -1,0 +1,3 @@
+Contract Beta
+
+This agreement covers asynchronous document review, operational governance, retry handling, and delivery of finalized structured records.

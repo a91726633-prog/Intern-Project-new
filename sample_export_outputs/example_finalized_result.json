@@ -1,0 +1,21 @@
+{
+  "title": "Invoice Alpha",
+  "category": "TXT",
+  "summary": "Invoice Alpha Customer: Northwind Health Total: 45200 Category: Finance This invoice includes document processing services, compliance review, workflow automation, and export preparation.",
+  "extracted_keywords": [
+    "automation",
+    "category",
+    "compliance",
+    "customer",
+    "document",
+    "export",
+    "finance",
+    "invoice"
+  ],
+  "status": "ready_for_review",
+  "metadata": {
+    "filename": "invoice_alpha.txt",
+    "file_type": "text/plain",
+    "size_bytes": 181
+  }
+}

@@ -1,0 +1,7 @@
+Invoice Alpha
+
+Customer: Northwind Health
+Total: 45200
+Category: Finance
+
+This invoice includes document processing services, compliance review, workflow automation, and export preparation.
